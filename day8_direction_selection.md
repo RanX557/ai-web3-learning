@@ -1,7 +1,8 @@
 # Day 8 方向选择说明
 
 ## 我的问题地图
-[这里插入你拍的地图照片]
+<img width="996" height="1080" alt="image" src="https://github.com/user-attachments/assets/145f1124-4aee-4836-bc8a-e3f888e026b7" />
+
 
 ## 我选择的两个方向
 
